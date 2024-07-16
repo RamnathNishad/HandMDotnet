@@ -1,0 +1,11 @@
+C:\HMDotnet\HelloWorld\GlobalLib\bin\Debug\net8.0\GlobalLib.deps.json
+C:\HMDotnet\HelloWorld\GlobalLib\bin\Debug\net8.0\GlobalLib.dll
+C:\HMDotnet\HelloWorld\GlobalLib\bin\Debug\net8.0\GlobalLib.pdb
+C:\HMDotnet\HelloWorld\GlobalLib\obj\Debug\net8.0\GlobalLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\HMDotnet\HelloWorld\GlobalLib\obj\Debug\net8.0\GlobalLib.AssemblyInfoInputs.cache
+C:\HMDotnet\HelloWorld\GlobalLib\obj\Debug\net8.0\GlobalLib.AssemblyInfo.cs
+C:\HMDotnet\HelloWorld\GlobalLib\obj\Debug\net8.0\GlobalLib.csproj.CoreCompileInputs.cache
+C:\HMDotnet\HelloWorld\GlobalLib\obj\Debug\net8.0\GlobalLib.dll
+C:\HMDotnet\HelloWorld\GlobalLib\obj\Debug\net8.0\refint\GlobalLib.dll
+C:\HMDotnet\HelloWorld\GlobalLib\obj\Debug\net8.0\GlobalLib.pdb
+C:\HMDotnet\HelloWorld\GlobalLib\obj\Debug\net8.0\ref\GlobalLib.dll

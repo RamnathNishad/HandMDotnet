@@ -1,0 +1,14 @@
+C:\HMDotnet\HelloWorld\DictionaryDemo\bin\Debug\net8.0\DictionaryDemo.exe
+C:\HMDotnet\HelloWorld\DictionaryDemo\bin\Debug\net8.0\DictionaryDemo.deps.json
+C:\HMDotnet\HelloWorld\DictionaryDemo\bin\Debug\net8.0\DictionaryDemo.runtimeconfig.json
+C:\HMDotnet\HelloWorld\DictionaryDemo\bin\Debug\net8.0\DictionaryDemo.dll
+C:\HMDotnet\HelloWorld\DictionaryDemo\bin\Debug\net8.0\DictionaryDemo.pdb
+C:\HMDotnet\HelloWorld\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HMDotnet\HelloWorld\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.AssemblyInfoInputs.cache
+C:\HMDotnet\HelloWorld\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.AssemblyInfo.cs
+C:\HMDotnet\HelloWorld\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.csproj.CoreCompileInputs.cache
+C:\HMDotnet\HelloWorld\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.dll
+C:\HMDotnet\HelloWorld\DictionaryDemo\obj\Debug\net8.0\refint\DictionaryDemo.dll
+C:\HMDotnet\HelloWorld\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.pdb
+C:\HMDotnet\HelloWorld\DictionaryDemo\obj\Debug\net8.0\DictionaryDemo.genruntimeconfig.cache
+C:\HMDotnet\HelloWorld\DictionaryDemo\obj\Debug\net8.0\ref\DictionaryDemo.dll

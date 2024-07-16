@@ -1,0 +1,393 @@
+Assemblies:- It is logical unit of an .net application which contains the elements and components which is needed the application.
+
+Assemblies:- 
+1) Meta Data:- information about types needed by the application.
+2) MSIL :- Microsoft Intermediate Language---> when code is compiled. It is again compiled while executing using JIT compiler. 
+
+Meta-data:- .NET Types and custom types.
+custom types:- private class library which is stored as Portable Executable(PE).
+Dynamic library:- can be shared globally across applications. GAC(Global Assembly Cache) location is the place for public or shared library.
+
+To deploy assemblies to GAC:
+1) digitally singed with strong key name.
+2) deployed using tool gacutil.exe 
+	gacutil -i assembly.dll
+
+Strong key name:
+1) name of the assembly
+2) version of the assembly
+3) culture
+4) private/public token
+
+
+
+Q2. Store few cities names in a collections and sort and display the cities based on their length of the cities name.
+[Hint: to get length of a string use "Length" property of string]
+
+-------------------Searching and Sorting-----------------
+Commonly used searching algorithms:-
+1) Linear search:- In the set of values, we traverse linearly one by one and comparison is done for matching. If match is found , the item present else if not found till end then item is not present.
+
+foreach item in array
+	if item==value
+		return the item's index as to be found
+	end if
+end of foreach
+return -1 to be not found
+
+2) Binary Search:- To use this, array or collection must be sorted first.
+Then we keep on dividing into two half. and then comparison is made in each half set. if item to be searched if lesser than the middle the it will fall in left side set else it will fall in right side set.
+This keep on doing dividing and comparing till item is not found.
+
+value=20
+
+10,20,30,40,50,60,70,80
+L	 M	     R
+
+10,20,30,40
+L  M 	 R
+
+algorithm:
+set L=1
+set R=size of array
+
+while(L<=U)
+{
+	set M=(L+R)/2
+	if(array[M]>value)
+	{
+		set R=M-1
+	}
+	else if(array[M]<value){
+		set L=M+1;
+	}
+	else
+	{ 
+		found at M
+	}
+}
+
+return not found
+
+3) BST(Binary Search Tree):-
+A Binary Search Tree is a binary tree with a search property where elements in the left sub-tree are less than the root and elements in the right subtree are greater than the root.
+
+
+Traversing in Binary Search Tree:
+
+There are 3 types of traversing in BST:-
+1) Pre-order
+2) In-Order
+3) Post-Order
+
+
+a)Pre-order: In this traversal following order is followed:
+	Root node
+	Left Child
+	Right Child
+
+public void Pre_Order(TNode root)
+{
+	if(root!=null)
+	{
+		Console.Write(root.Data + " ");
+		Pre_Order(root.Left);
+		Pre_Order(root.Right);
+	}
+}  
+
+2) In-Order traversal:- In this taversal following order is done:
+	-Left Child
+	-Root Node	
+	-Right Child
+
+public void In_Order(TNode root)
+{
+	if(root!=null)
+	{
+		
+		In_Order(root.Left);
+		Console.Write(root.Data + " ");
+		In_Order(root.Right);
+	}
+}  
+
+
+3) Post Order traversal:-
+	-Left child
+	-Right child
+	-Root node
+
+public void Post_Order(TNode root)
+{
+	if(root!=null)
+	{
+		
+		Post_Order(root.Left);
+		Post_Order(root.Right);
+		Console.Write(root.Data + " ");
+	}
+}
+
+
+
+
+
+
+Inheritance and Polymorphism:-
+
+Object changes its forms:
+1) Static-polymorphism:-  Method overloading is used 
+2) Dynamic-polymorphism:- Method overriding using inheritance
+ declaration of variable must be of base type then only it can hold the instance of its derived classes in a polymorphic way.
+
+
+
+
+
+
+interface IStall
+{
+	void display();
+}
+
+class GoldStall :IStall
+{
+
+}
+class PremiumStall : IStall
+{
+
+}
+class ExecutiveStall : IStall
+{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+=====================SOLID===========================
+Design patterns are used in development to reuse the modules and codes and also helps in maintaining the codes. It also helps in comfortable testing phase.
+
+S----> Single Responsibility Principle
+O----> Open/Closed principle
+L----> Liskov Sustitution Pinciple
+I----> Interface Segregation Principle
+D----> Dependency Principle
+
+S--A class or method should be responsible for only one task instead set of tasks.
+
+class Employee
+{
+	int salary; //assigned thru ctor
+	double bonus;
+
+	public void CalculateBonus()
+	{
+	   if(salary>5000)
+	    {
+		bonus=0.1*salary;
+	    }
+           else
+	   {
+ 		bonus=0.2*salary;
+           }	
+	}
+	public void Display()
+        {
+		Console.WriteLine($"Salary:{salary}\tBonus:{bonus}");
+	}
+}
+
+-cohesion:- internal relation:- more
+-coupling:- external dependency:- less
+
+Open/close:-  
+	a class should be open for extension but closed for modification.
+
+class AreaCalculator 
+{
+  public void CalculateArea()
+  {
+
+  }
+}
+
+L-Liskiv Substitution Principle :- a derived class should not change the features of a base, it should only extend the features of the base class.
+i.e. a derived can be able to be used in place of base class without loosing the base class features.
+
+I-interface segregation :- a class should not have unnecessary implementation of interfaces if it does nt belong to it.
+
+u must separate them with multiple interfaces
+
+
+interface IManager
+{
+ void AssignProject();
+ void InitiateMeeting();
+
+}
+interface IHr
+{
+ void CalculateTaxes();
+}
+
+class Manager :IManager
+{
+
+}
+
+class Hr : IHr
+{
+
+}
+
+D--Dependency Principle:- 
+A higher level module should not depend directly on the lower level modules. instead Higher module should depend on lower level modules thru abstraction.
+ 
+We achieve using dependency injection service or container.
+
+1) Creational design pattern:- it works on the way of creation of object.
+
+-Singleton:- only one instance is created for the object.
+how to d it: 
+  -ctor shud be private
+  -it shud be created inside the class only
+  -if already instance is there, same should be given for use 
+
+-Abstract Factory pattern:-
+
+2) Structural design pattern:- it works on the composition of the object
+
+3) Behavioral design pattern:- it works on the communication of the object.
+
+
+
+
+//Anti-patterns:- 
+//Software development anti-patterns
+//Software designing anti-patterns
+//Software management anti-patterns
+
+
+
+create table employee
+(
+ ecode int primary key,
+ ename varchar(50),
+ salary int,
+ deptid int
+)
+
+
+
+-ADO.NET :- It is the component of .NET to connect with database and perform all the CRUD operations like create,read,update and delete.
+
+Two modes of ADo.NET:-
+1) Connected mode:- while working with data and records we need to keep the connection active.
+
+2) Disconnected mode:- We cache the records or data in the memory on which we want to work and then we close the connection. All the operations are performed in the memory temporarily. Once done we reopen the connections and save changes permanently into database. 
+
+a) Connected mode:
+System.Data.SqlClient---it is used for sql server provider
+	-SqlConnection ----for connection with server 
+	-SqlCommand  ----> to run the SQL statements, insert,delete,update,select 
+
+	SqlDataReader ---> to navigate the records of SELECT result one at a time
+		-Read()----> traverses the next record, if success returns true
+
+
+b) Disconnected mode:-
+Database--->Connection--->Command(Select)--->DataAdapter--->DataSet(memory)
+
+All operations is done in DataSet only (memory) without connection.
+
+Database<---Connection<---Command(I,D,U)<---DataAdapter<---DataSet(memory)
+
+
+
+
+================ASP.NET MVC with EntityFramework===============
+What is EntityFramework:-It is a Microsoft ORM(Object-Relation Mapping) tool and it is open source used for mapping relational database objects into application entity models.
+
+Using this we can perform CRUD operation with minimal code unlike ADO.NET where lot of lines of codes are there for DB interaction. EF gives u extension methods and query operator using LINQ.
+
+LINQ:- Language Integrated Query is a common programming model for querying different types of Data source like RDBMS, XML, CSV, etc 
+LINQ + EF = DML operations also.
+
+MVC---> Model View Controller component to develop web application. Using this design pattern we achieve proper responsibilities separation among these 3 components.
+
+Model:- Entities 
+View:- UI layer
+Controller: routing and business logic
+
+
+Two types of Views:-
+1)weakly-typed views:- no model is binded
+2)strongly-typed views:- model is binded, so while calling this view we must pass model instance also inside the view.
+
+
+
+Steps to connect with database using Entityframwork:-
+1) install these packages:-
+	-Microsoft.EntityFrameworkCore.SqlServer
+	-Microsoft.EntityFrameworkCore
+
+2) Create two classes:
+	a) database context class inheriting DbContext class
+		class EmpDbContext : DbContext
+		{
+			DbContextoptions<EmpDbContext> options;
+			public EmpDbContext(DbContextoptions<EmpDbContext> options) : base(options)
+			{	
+
+			}
+
+			public DbSet<Employee> employees{get;set;}
+		}
+
+	b) Model class
+	class Employee
+	{
+		//get set
+	}
+
+
+=============Web API=====================
+
+Service over HTTP protocol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

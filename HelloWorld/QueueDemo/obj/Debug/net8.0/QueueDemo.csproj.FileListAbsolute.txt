@@ -1,0 +1,14 @@
+C:\HMDotnet\HelloWorld\QueueDemo\bin\Debug\net8.0\QueueDemo.exe
+C:\HMDotnet\HelloWorld\QueueDemo\bin\Debug\net8.0\QueueDemo.deps.json
+C:\HMDotnet\HelloWorld\QueueDemo\bin\Debug\net8.0\QueueDemo.runtimeconfig.json
+C:\HMDotnet\HelloWorld\QueueDemo\bin\Debug\net8.0\QueueDemo.dll
+C:\HMDotnet\HelloWorld\QueueDemo\bin\Debug\net8.0\QueueDemo.pdb
+C:\HMDotnet\HelloWorld\QueueDemo\obj\Debug\net8.0\QueueDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HMDotnet\HelloWorld\QueueDemo\obj\Debug\net8.0\QueueDemo.AssemblyInfoInputs.cache
+C:\HMDotnet\HelloWorld\QueueDemo\obj\Debug\net8.0\QueueDemo.AssemblyInfo.cs
+C:\HMDotnet\HelloWorld\QueueDemo\obj\Debug\net8.0\QueueDemo.csproj.CoreCompileInputs.cache
+C:\HMDotnet\HelloWorld\QueueDemo\obj\Debug\net8.0\QueueDemo.dll
+C:\HMDotnet\HelloWorld\QueueDemo\obj\Debug\net8.0\refint\QueueDemo.dll
+C:\HMDotnet\HelloWorld\QueueDemo\obj\Debug\net8.0\QueueDemo.pdb
+C:\HMDotnet\HelloWorld\QueueDemo\obj\Debug\net8.0\QueueDemo.genruntimeconfig.cache
+C:\HMDotnet\HelloWorld\QueueDemo\obj\Debug\net8.0\ref\QueueDemo.dll

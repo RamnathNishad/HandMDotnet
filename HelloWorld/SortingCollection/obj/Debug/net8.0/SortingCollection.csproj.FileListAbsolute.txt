@@ -1,0 +1,14 @@
+C:\HMDotnet\HelloWorld\SortingCollection\bin\Debug\net8.0\SortingCollection.exe
+C:\HMDotnet\HelloWorld\SortingCollection\bin\Debug\net8.0\SortingCollection.deps.json
+C:\HMDotnet\HelloWorld\SortingCollection\bin\Debug\net8.0\SortingCollection.runtimeconfig.json
+C:\HMDotnet\HelloWorld\SortingCollection\bin\Debug\net8.0\SortingCollection.dll
+C:\HMDotnet\HelloWorld\SortingCollection\bin\Debug\net8.0\SortingCollection.pdb
+C:\HMDotnet\HelloWorld\SortingCollection\obj\Debug\net8.0\SortingCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\HMDotnet\HelloWorld\SortingCollection\obj\Debug\net8.0\SortingCollection.AssemblyInfoInputs.cache
+C:\HMDotnet\HelloWorld\SortingCollection\obj\Debug\net8.0\SortingCollection.AssemblyInfo.cs
+C:\HMDotnet\HelloWorld\SortingCollection\obj\Debug\net8.0\SortingCollection.csproj.CoreCompileInputs.cache
+C:\HMDotnet\HelloWorld\SortingCollection\obj\Debug\net8.0\SortingCollection.dll
+C:\HMDotnet\HelloWorld\SortingCollection\obj\Debug\net8.0\refint\SortingCollection.dll
+C:\HMDotnet\HelloWorld\SortingCollection\obj\Debug\net8.0\SortingCollection.pdb
+C:\HMDotnet\HelloWorld\SortingCollection\obj\Debug\net8.0\SortingCollection.genruntimeconfig.cache
+C:\HMDotnet\HelloWorld\SortingCollection\obj\Debug\net8.0\ref\SortingCollection.dll

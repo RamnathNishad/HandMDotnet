@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "GlobalLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/GlobalLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GlobalLib.dll": {}
+        }
+      },
+      "MyLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MyLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GlobalLib/1.0.0": {
+      "type": "project",
+      "path": "../GlobalLib/GlobalLib.csproj",
+      "msbuildProject": "../GlobalLib/GlobalLib.csproj"
+    },
+    "MyLib/1.0.0": {
+      "type": "project",
+      "path": "../MyLib/MyLib.csproj",
+      "msbuildProject": "../MyLib/MyLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "GlobalLib >= 1.0.0",
+      "MyLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\raman\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\HMDotnet\\HelloWorld\\ConsumerApp\\ConsumerApp.csproj",
+      "projectName": "ConsumerApp",
+      "projectPath": "C:\\HMDotnet\\HelloWorld\\ConsumerApp\\ConsumerApp.csproj",
+      "packagesPath": "C:\\Users\\raman\\.nuget\\packages\\",
+      "outputPath": "C:\\HMDotnet\\HelloWorld\\ConsumerApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\raman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\HMDotnet\\HelloWorld\\GlobalLib\\GlobalLib.csproj": {
+              "projectPath": "C:\\HMDotnet\\HelloWorld\\GlobalLib\\GlobalLib.csproj"
+            },
+            "C:\\HMDotnet\\HelloWorld\\MyLib\\MyLib.csproj": {
+              "projectPath": "C:\\HMDotnet\\HelloWorld\\MyLib\\MyLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

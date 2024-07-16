@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsumerApp/1.0.0": {
+        "dependencies": {
+          "GlobalLib": "1.0.0",
+          "MyLib": "1.0.0"
+        },
+        "runtime": {
+          "ConsumerApp.dll": {}
+        }
+      },
+      "GlobalLib/1.0.0": {
+        "runtime": {
+          "GlobalLib.dll": {}
+        }
+      },
+      "MyLib/1.0.0": {
+        "runtime": {
+          "MyLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsumerApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GlobalLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

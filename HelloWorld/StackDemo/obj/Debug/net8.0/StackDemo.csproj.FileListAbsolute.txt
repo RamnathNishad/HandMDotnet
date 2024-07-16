@@ -1,0 +1,14 @@
+C:\HMDotnet\HelloWorld\StackDemo\bin\Debug\net8.0\StackDemo.exe
+C:\HMDotnet\HelloWorld\StackDemo\bin\Debug\net8.0\StackDemo.deps.json
+C:\HMDotnet\HelloWorld\StackDemo\bin\Debug\net8.0\StackDemo.runtimeconfig.json
+C:\HMDotnet\HelloWorld\StackDemo\bin\Debug\net8.0\StackDemo.dll
+C:\HMDotnet\HelloWorld\StackDemo\bin\Debug\net8.0\StackDemo.pdb
+C:\HMDotnet\HelloWorld\StackDemo\obj\Debug\net8.0\StackDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HMDotnet\HelloWorld\StackDemo\obj\Debug\net8.0\StackDemo.AssemblyInfoInputs.cache
+C:\HMDotnet\HelloWorld\StackDemo\obj\Debug\net8.0\StackDemo.AssemblyInfo.cs
+C:\HMDotnet\HelloWorld\StackDemo\obj\Debug\net8.0\StackDemo.csproj.CoreCompileInputs.cache
+C:\HMDotnet\HelloWorld\StackDemo\obj\Debug\net8.0\StackDemo.dll
+C:\HMDotnet\HelloWorld\StackDemo\obj\Debug\net8.0\refint\StackDemo.dll
+C:\HMDotnet\HelloWorld\StackDemo\obj\Debug\net8.0\StackDemo.pdb
+C:\HMDotnet\HelloWorld\StackDemo\obj\Debug\net8.0\StackDemo.genruntimeconfig.cache
+C:\HMDotnet\HelloWorld\StackDemo\obj\Debug\net8.0\ref\StackDemo.dll

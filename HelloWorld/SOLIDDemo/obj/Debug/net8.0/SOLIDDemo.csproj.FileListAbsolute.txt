@@ -1,0 +1,14 @@
+C:\HMDotnet\HelloWorld\SOLIDDemo\bin\Debug\net8.0\SOLIDDemo.exe
+C:\HMDotnet\HelloWorld\SOLIDDemo\bin\Debug\net8.0\SOLIDDemo.deps.json
+C:\HMDotnet\HelloWorld\SOLIDDemo\bin\Debug\net8.0\SOLIDDemo.runtimeconfig.json
+C:\HMDotnet\HelloWorld\SOLIDDemo\bin\Debug\net8.0\SOLIDDemo.dll
+C:\HMDotnet\HelloWorld\SOLIDDemo\bin\Debug\net8.0\SOLIDDemo.pdb
+C:\HMDotnet\HelloWorld\SOLIDDemo\obj\Debug\net8.0\SOLIDDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HMDotnet\HelloWorld\SOLIDDemo\obj\Debug\net8.0\SOLIDDemo.AssemblyInfoInputs.cache
+C:\HMDotnet\HelloWorld\SOLIDDemo\obj\Debug\net8.0\SOLIDDemo.AssemblyInfo.cs
+C:\HMDotnet\HelloWorld\SOLIDDemo\obj\Debug\net8.0\SOLIDDemo.csproj.CoreCompileInputs.cache
+C:\HMDotnet\HelloWorld\SOLIDDemo\obj\Debug\net8.0\SOLIDDemo.dll
+C:\HMDotnet\HelloWorld\SOLIDDemo\obj\Debug\net8.0\refint\SOLIDDemo.dll
+C:\HMDotnet\HelloWorld\SOLIDDemo\obj\Debug\net8.0\SOLIDDemo.pdb
+C:\HMDotnet\HelloWorld\SOLIDDemo\obj\Debug\net8.0\SOLIDDemo.genruntimeconfig.cache
+C:\HMDotnet\HelloWorld\SOLIDDemo\obj\Debug\net8.0\ref\SOLIDDemo.dll

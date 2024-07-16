@@ -1,0 +1,14 @@
+C:\HMDotnet\HelloWorld\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.exe
+C:\HMDotnet\HelloWorld\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.deps.json
+C:\HMDotnet\HelloWorld\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.runtimeconfig.json
+C:\HMDotnet\HelloWorld\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.dll
+C:\HMDotnet\HelloWorld\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.pdb
+C:\HMDotnet\HelloWorld\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HMDotnet\HelloWorld\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\HMDotnet\HelloWorld\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfo.cs
+C:\HMDotnet\HelloWorld\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\HMDotnet\HelloWorld\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.dll
+C:\HMDotnet\HelloWorld\InheritanceDemo\obj\Debug\net8.0\refint\InheritanceDemo.dll
+C:\HMDotnet\HelloWorld\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.pdb
+C:\HMDotnet\HelloWorld\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.genruntimeconfig.cache
+C:\HMDotnet\HelloWorld\InheritanceDemo\obj\Debug\net8.0\ref\InheritanceDemo.dll

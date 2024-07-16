@@ -1,0 +1,14 @@
+C:\HMDotnet\HelloWorld\DynamicPolymorphism\bin\Debug\net8.0\DynamicPolymorphism.exe
+C:\HMDotnet\HelloWorld\DynamicPolymorphism\bin\Debug\net8.0\DynamicPolymorphism.deps.json
+C:\HMDotnet\HelloWorld\DynamicPolymorphism\bin\Debug\net8.0\DynamicPolymorphism.runtimeconfig.json
+C:\HMDotnet\HelloWorld\DynamicPolymorphism\bin\Debug\net8.0\DynamicPolymorphism.dll
+C:\HMDotnet\HelloWorld\DynamicPolymorphism\bin\Debug\net8.0\DynamicPolymorphism.pdb
+C:\HMDotnet\HelloWorld\DynamicPolymorphism\obj\Debug\net8.0\DynamicPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\HMDotnet\HelloWorld\DynamicPolymorphism\obj\Debug\net8.0\DynamicPolymorphism.AssemblyInfoInputs.cache
+C:\HMDotnet\HelloWorld\DynamicPolymorphism\obj\Debug\net8.0\DynamicPolymorphism.AssemblyInfo.cs
+C:\HMDotnet\HelloWorld\DynamicPolymorphism\obj\Debug\net8.0\DynamicPolymorphism.csproj.CoreCompileInputs.cache
+C:\HMDotnet\HelloWorld\DynamicPolymorphism\obj\Debug\net8.0\DynamicPolymorphism.dll
+C:\HMDotnet\HelloWorld\DynamicPolymorphism\obj\Debug\net8.0\refint\DynamicPolymorphism.dll
+C:\HMDotnet\HelloWorld\DynamicPolymorphism\obj\Debug\net8.0\DynamicPolymorphism.pdb
+C:\HMDotnet\HelloWorld\DynamicPolymorphism\obj\Debug\net8.0\DynamicPolymorphism.genruntimeconfig.cache
+C:\HMDotnet\HelloWorld\DynamicPolymorphism\obj\Debug\net8.0\ref\DynamicPolymorphism.dll

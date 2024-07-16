@@ -1,0 +1,14 @@
+C:\HMDotnet\HelloWorld\HashTableDemo\bin\Debug\net8.0\HashTableDemo.exe
+C:\HMDotnet\HelloWorld\HashTableDemo\bin\Debug\net8.0\HashTableDemo.deps.json
+C:\HMDotnet\HelloWorld\HashTableDemo\bin\Debug\net8.0\HashTableDemo.runtimeconfig.json
+C:\HMDotnet\HelloWorld\HashTableDemo\bin\Debug\net8.0\HashTableDemo.dll
+C:\HMDotnet\HelloWorld\HashTableDemo\bin\Debug\net8.0\HashTableDemo.pdb
+C:\HMDotnet\HelloWorld\HashTableDemo\obj\Debug\net8.0\HashTableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HMDotnet\HelloWorld\HashTableDemo\obj\Debug\net8.0\HashTableDemo.AssemblyInfoInputs.cache
+C:\HMDotnet\HelloWorld\HashTableDemo\obj\Debug\net8.0\HashTableDemo.AssemblyInfo.cs
+C:\HMDotnet\HelloWorld\HashTableDemo\obj\Debug\net8.0\HashTableDemo.csproj.CoreCompileInputs.cache
+C:\HMDotnet\HelloWorld\HashTableDemo\obj\Debug\net8.0\HashTableDemo.dll
+C:\HMDotnet\HelloWorld\HashTableDemo\obj\Debug\net8.0\refint\HashTableDemo.dll
+C:\HMDotnet\HelloWorld\HashTableDemo\obj\Debug\net8.0\HashTableDemo.pdb
+C:\HMDotnet\HelloWorld\HashTableDemo\obj\Debug\net8.0\HashTableDemo.genruntimeconfig.cache
+C:\HMDotnet\HelloWorld\HashTableDemo\obj\Debug\net8.0\ref\HashTableDemo.dll

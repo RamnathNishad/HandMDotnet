@@ -1,0 +1,14 @@
+C:\HMDotnet\HelloWorld\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.exe
+C:\HMDotnet\HelloWorld\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.deps.json
+C:\HMDotnet\HelloWorld\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.runtimeconfig.json
+C:\HMDotnet\HelloWorld\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.dll
+C:\HMDotnet\HelloWorld\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.pdb
+C:\HMDotnet\HelloWorld\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HMDotnet\HelloWorld\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.AssemblyInfoInputs.cache
+C:\HMDotnet\HelloWorld\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.AssemblyInfo.cs
+C:\HMDotnet\HelloWorld\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\HMDotnet\HelloWorld\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.dll
+C:\HMDotnet\HelloWorld\CollectionsDemo\obj\Debug\net8.0\refint\CollectionsDemo.dll
+C:\HMDotnet\HelloWorld\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.pdb
+C:\HMDotnet\HelloWorld\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.genruntimeconfig.cache
+C:\HMDotnet\HelloWorld\CollectionsDemo\obj\Debug\net8.0\ref\CollectionsDemo.dll

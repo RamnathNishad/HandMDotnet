@@ -1,0 +1,14 @@
+C:\HMDotnet\HelloWorld\BinarySearch\bin\Debug\net8.0\BinarySearch.exe
+C:\HMDotnet\HelloWorld\BinarySearch\bin\Debug\net8.0\BinarySearch.deps.json
+C:\HMDotnet\HelloWorld\BinarySearch\bin\Debug\net8.0\BinarySearch.runtimeconfig.json
+C:\HMDotnet\HelloWorld\BinarySearch\bin\Debug\net8.0\BinarySearch.dll
+C:\HMDotnet\HelloWorld\BinarySearch\bin\Debug\net8.0\BinarySearch.pdb
+C:\HMDotnet\HelloWorld\BinarySearch\obj\Debug\net8.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\HMDotnet\HelloWorld\BinarySearch\obj\Debug\net8.0\BinarySearch.AssemblyInfoInputs.cache
+C:\HMDotnet\HelloWorld\BinarySearch\obj\Debug\net8.0\BinarySearch.AssemblyInfo.cs
+C:\HMDotnet\HelloWorld\BinarySearch\obj\Debug\net8.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\HMDotnet\HelloWorld\BinarySearch\obj\Debug\net8.0\BinarySearch.dll
+C:\HMDotnet\HelloWorld\BinarySearch\obj\Debug\net8.0\refint\BinarySearch.dll
+C:\HMDotnet\HelloWorld\BinarySearch\obj\Debug\net8.0\BinarySearch.pdb
+C:\HMDotnet\HelloWorld\BinarySearch\obj\Debug\net8.0\BinarySearch.genruntimeconfig.cache
+C:\HMDotnet\HelloWorld\BinarySearch\obj\Debug\net8.0\ref\BinarySearch.dll

@@ -1,0 +1,14 @@
+C:\HMDotnet\HelloWorld\LinearSearch\bin\Debug\net8.0\LinearSearch.exe
+C:\HMDotnet\HelloWorld\LinearSearch\bin\Debug\net8.0\LinearSearch.deps.json
+C:\HMDotnet\HelloWorld\LinearSearch\bin\Debug\net8.0\LinearSearch.runtimeconfig.json
+C:\HMDotnet\HelloWorld\LinearSearch\bin\Debug\net8.0\LinearSearch.dll
+C:\HMDotnet\HelloWorld\LinearSearch\bin\Debug\net8.0\LinearSearch.pdb
+C:\HMDotnet\HelloWorld\LinearSearch\obj\Debug\net8.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\HMDotnet\HelloWorld\LinearSearch\obj\Debug\net8.0\LinearSearch.AssemblyInfoInputs.cache
+C:\HMDotnet\HelloWorld\LinearSearch\obj\Debug\net8.0\LinearSearch.AssemblyInfo.cs
+C:\HMDotnet\HelloWorld\LinearSearch\obj\Debug\net8.0\LinearSearch.csproj.CoreCompileInputs.cache
+C:\HMDotnet\HelloWorld\LinearSearch\obj\Debug\net8.0\LinearSearch.dll
+C:\HMDotnet\HelloWorld\LinearSearch\obj\Debug\net8.0\refint\LinearSearch.dll
+C:\HMDotnet\HelloWorld\LinearSearch\obj\Debug\net8.0\LinearSearch.pdb
+C:\HMDotnet\HelloWorld\LinearSearch\obj\Debug\net8.0\LinearSearch.genruntimeconfig.cache
+C:\HMDotnet\HelloWorld\LinearSearch\obj\Debug\net8.0\ref\LinearSearch.dll

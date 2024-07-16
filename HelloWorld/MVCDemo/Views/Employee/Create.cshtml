@@ -1,0 +1,53 @@
+﻿@model MVCDemo.Models.Employee
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+@using(Html.BeginForm())
+{
+    <table class="table">
+    <tr>
+        <td>Ecode</td>
+    </tr>
+    <tr>
+        <td>
+            @Html.TextBoxFor(modelItem=>modelItem.Ecode)
+        </td>
+    </tr>
+        <tr>
+            <td>Ename</td>
+        </tr>
+        <tr>
+            <td>
+                @Html.TextBoxFor(modelItem => modelItem.Ename)
+            </td>
+        </tr>
+        <tr>
+            <td>Salary</td>
+        </tr>
+        <tr>
+            <td>
+                @Html.TextBoxFor(modelItem => modelItem.Salary)
+            </td>
+        </tr>
+        <tr>
+            <td>Deptid</td>
+        </tr>
+        <tr>
+            <td>
+                @Html.TextBoxFor(modelItem => modelItem.Deptid)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" value="Post" class="btn btn-primary" />
+                <p>
+                    @Html.ActionLink("Back to Home","Home")
+                </p>
+            </td>
+        </tr>
+    </table>
+}
+
